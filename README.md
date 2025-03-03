@@ -6,6 +6,8 @@ As a Data Science professional, I specialize in statistical analysis and predict
 
 I am skilled in designing clear, actionable dashboards and leverage tools like Power BI and Google Looker Studio to transform data into compelling visual stories. My dashboards are crafted to boost decision-making and enhance user engagement.
 
+In addition to my data science expertise, I am also a skilled Python developer. I am proficient in programming languages and tools including CSS3, HTML5, JavaScript, MongoDB, MySQL, Pandas, Scikit-learn, and RStudio. My technical capabilities extend to web design and app development, enabling me to offer versatile solutions in various tech-driven projects.
+
 ## Languages and Tools
 
 - Python
